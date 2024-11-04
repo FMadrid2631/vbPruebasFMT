@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "vbPruebasFMT-1",
+			"path": "../vbPruebasFMT-1"
+		}
+	],
+	"settings": {
+		"terminal.integrated.commandsToSkipShell": [
+			""
+		]
+	}
+}
